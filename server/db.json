@@ -73,15 +73,6 @@
       "avatarUrl": "https://www.gravatar.com/avatar/d5a91308668dd768e955e2efd0fcdb37?d=identicon"
     },
     {
-      "id": "a878c84d-8f49-45da-bbda-313503f9898f",
-      "firstName": "Nova",
-      "lastName": "Bergstrom",
-      "email": "Darrell10@gmail.com",
-      "jobTitle": "Lead Interactions Officer",
-      "twitter": "NovaBergstrom48167",
-      "avatarUrl": "https://www.gravatar.com/avatar/e65037a095cfcc6aec56cad1a2128207?d=identicon"
-    },
-    {
       "id": "eb28f57f-6448-4d40-8f57-8db27831a605",
       "firstName": "Myrtle",
       "lastName": "Torphy",
@@ -89,15 +80,6 @@
       "jobTitle": "Lead Directives Liaison",
       "twitter": "MyrtleTorphy42588-6517",
       "avatarUrl": "https://www.gravatar.com/avatar/03b84b35e3a31f091a07910da97ff46a?d=identicon"
-    },
-    {
-      "id": "052e04c9-6386-400c-8794-c1ac8f794a75",
-      "firstName": "Pamela",
-      "lastName": "Ritchie",
-      "email": "Daren95@yahoo.com",
-      "jobTitle": "Legacy Operations Facilitator",
-      "twitter": "PamelaRitchie48620",
-      "avatarUrl": "https://www.gravatar.com/avatar/9ffc47916a084028d7a6436531077852?d=identicon"
     },
     {
       "id": "4bbb7f45-e0be-4b7f-ab7c-101b3ecb2d04",
@@ -440,6 +422,38 @@
       "jobTitle": "Lawyer",
       "twitter": "ckaufmanpr",
       "id": "npaYZKI"
+    },
+    {
+      "firstName": "Christian",
+      "lastName": "Caro",
+      "email": "christiancarop@gmail.com",
+      "jobTitle": "Ingeniero de Sistemas",
+      "twitter": "ccarop",
+      "id": "yTG0-r2"
+    },
+    {
+      "firstName": "Aderline",
+      "lastName": "Pineda Vera",
+      "email": "aderlinemami@gmail.com",
+      "jobTitle": "Styles",
+      "twitter": "aderline",
+      "id": "qddjEhZ"
+    },
+    {
+      "firstName": "Marlon",
+      "lastName": "Zapata",
+      "email": "mzapata@w.om",
+      "jobTitle": "Onlyfans",
+      "twitter": "mzapata",
+      "id": "jeu4m6E"
+    },
+    {
+      "firstName": "Alis",
+      "lastName": "Caro",
+      "email": "aliriocarom12@hotmail.com",
+      "jobTitle": "Electricist",
+      "twitter": "aliriocarom",
+      "id": "Dv5rd_T"
     }
   ]
 }
